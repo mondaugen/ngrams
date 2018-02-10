@@ -16,4 +16,5 @@ and the like
 plot_2gram_freq.py attempts to see what letters almost always occur in pairs.
 The idea is that the flatter the probability distribution of observing the letter-pair makes this letter a candidate for being alone on the keyboard. E.g., e combines with so many letters that it be best given its own key. On the other hand some letters mostly occur paired with others. In that case, it should be easy to type these pairs of letters but not the letter with an infrequent partner.
 
-To get the ngrams full ngrams data, download from Google Drive.
+To get the ngrams full ngrams data, download from 
+https://drive.google.com/file/d/1hhgNIgk-IQa3s4xRZ1SMWC5WPL8S5Vnt/view?usp=sharing
